@@ -1,35 +1,27 @@
 ### Kia Ora, I'm Nikhita.  👋
 
-## I'm a (New!) Developer, Soon-to-be Mother, Pole Dancer, Learner and Educator.  
+## I'm a (New!) Full Stack Developer, Soon-to-be Mother, Pole Dancer, Learner and Educator.  
 
 - 🌱 I’m currently learning TypeScipt
 - 👯 I’m looking for opportunities to work on full stack projects  
 - 😄 Pronouns: She/Her
 
----
-### Connect with me:
-
-[<img align="left" alt="nikhita khanduri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nikhita khanduri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
 <br/>
 
 ---
+
 
 ### Connect with me:
 
 <div>
-<a href="https://www.linkedin.com/in/nikhitakhanduri/" target="_blank"><img color="blue" alt="nikhita khanduri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/nikhitakhanduri/" target="_blank"><img alt="nikhita khanduri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://k.nikhita@gmail.com" target="_blank"><img alt="nikhita khanduri | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <a href="https://www.instagram.com/hindipendentgirl/" target="_blank"><img alt="nikhita khanduri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 </div>
 <br/>
-<br/>
 
 ---
-
 
 ### Languages and Tools:
 <div>
