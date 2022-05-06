@@ -12,6 +12,9 @@
 
 <br />
 
+### Languages and Tools:
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white">
 ---
 
 [instagram]: https://www.instagram.com/hindipendentgirl/
