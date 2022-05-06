@@ -6,15 +6,16 @@
 - 👯 I’m looking for opportunities to work on full stack projects  
 - 😄 Pronouns: She/Her
 
+---
 ### Connect with me:
 [<img align="left" alt="nikhita khanduri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nikhita khanduri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+---
 ### Languages and Tools:
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat">
+<img  align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white&style=flat">
+<img  align="left" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat">
