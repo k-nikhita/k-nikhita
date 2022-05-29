@@ -48,6 +48,7 @@
 
 ---
 
-[instagram]: 
-[linkedin]: 
+### 🔥 &nbsp; My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k-nikhita&theme=github-light&fire=DD4119)](https://git.io/streak-stats)
 
