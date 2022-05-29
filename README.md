@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat-square" height="25">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square" height="25">
 <img src="https://img.shields.io/badge/-NodeJS-339933?logo=Node.js&logoColor=white&style=flat-square" height="25">
+<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" height="25">
 <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=flat-square" height="25">
 <img src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white&style=flat-square" height="25">
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat-square" height="25">
