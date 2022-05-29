@@ -50,7 +50,8 @@
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k-nikhita&theme=github-light&fire=DD4119)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k-nikhita)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-nikhita)](https://github.com/anuraghazra/github-readme-stats)
 
