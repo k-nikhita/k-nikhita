@@ -2,7 +2,7 @@
 
 ## I'm a (New!) Full Stack Developer, Soon-to-be Mother, Pole Dancer, Learner and Educator.  
 
-- 🌱 I’m currently learning TypeScipt
+- 🌱 I’m currently learning how to use WordPress for content management.
 - 👯 I’m looking for opportunities to work on full stack projects  
 - 😄 Pronouns: She/Her
 
